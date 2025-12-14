@@ -1,0 +1,8 @@
+{
+  "name": "Lumina Store",
+  "description": "A next-generation e-commerce experience featuring an AI-powered personal shopper and dynamic product insights.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
